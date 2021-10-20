@@ -5,4 +5,4 @@ We are exploring the optimum scheduling scheme for vessel movement in Houston Sh
 2.	Daylight restriction
 3.	Channel closure.
 
-The data were provided by Houston Pilots. I used PuLP package in Python and applied genetic algorithm to find the best scheduling scheme with minimum delay. 
+I used PuLP package in Python and applied genetic algorithm to find the best scheduling scheme with minimum delay. 
